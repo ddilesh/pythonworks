@@ -1,0 +1,11 @@
+age=int(input("enter the age"))
+itexp=int(input("enter the IT experience"))
+
+print(age)
+print(itexp)
+
+if(age>=22 and itexp>=2) :
+    print('access granted')
+
+else :
+    print('access denied')
