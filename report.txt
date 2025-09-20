@@ -1,0 +1,5 @@
+Testcase1 -pass
+Testcase2 fail
+Testcase3 -pass
+Testcase 4 -pass
+Testcase 5 -fail
